@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\3400_04_Code\AIBook_Chapter07_Sensors\AIBook_Chapter07_Sensors\Assets\Scripts\TouchEventManager.cs">
+    <Files>
+      <File FileName="..\3400_04_Code\AIBook_Chapter07_Sensors\AIBook_Chapter07_Sensors\Assets\Scripts\TouchEventManager.cs" Line="25" Column="33" />
+      <File FileName="..\3400_04_Code\AIBook_Chapter07_Sensors\AIBook_Chapter07_Sensors\Assets\Scripts\Sensors\Senses\Touch.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
